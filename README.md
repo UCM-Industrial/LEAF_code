@@ -5,15 +5,16 @@ Long-term Energy Assessment Framework Code (LEAF)
 
 Commodities Database GLossary
 
-DACG (Direct Air Capture with Geothermal Heat): Captura CO₂ utilizando calor geotérmico para regenerar los solventes de captura.
-DACC (Direct Air Capture with Conventional Heat): Captura CO₂ usando fuentes de calor convencionales, generalmente derivadas de combustibles fósiles.
-A (Amine-based Direct Air Capture): Captura directa de CO₂ mediante solventes a base de aminas, que reaccionan químicamente con el dióxido de carbono del aire.
-MED (Multi-Effect Distillation): Desalinización térmica por etapas múltiples de evaporación y condensación, eficiente en el uso de energía térmica residual.
-MFD (Mechanical Vapor Compression Distillation): Proceso de desalinización que utiliza compresión mecánica del vapor para recuperar calor y reducir el consumo energético.
-IO (Ion Osmosis o Inverse Osmosis): Tecnologías de separación por membrana utilizadas en desalinización o purificación de agua, basadas en presión osmótica.
-PSA (Pressure Swing Adsorption): Separación de nitrógeno a partir del aire mediante ciclos de adsorción y desorción controlados por presión.
-AE (Alkaline Electrolysis): Producción de hidrógeno por electrólisis en una solución alcalina; tecnología madura y común en aplicaciones industriales.
-PEM (Proton Exchange Membrane Electrolysis): Tecnología de electrólisis que utiliza una membrana polimérica para generar hidrógeno con alta eficiencia.
-HB (Haber-Bosch Process): Síntesis de amoníaco a partir de hidrógeno y nitrógeno a alta presión y temperatura, ampliamente utilizada en la industria química.
-M (Methanation): Producción de metano sintético mediante reacción de hidrógeno con CO₂, típicamente a través del proceso Sabatier.
+- DACG (Direct Air Capture with Geothermal Heat): Captures CO₂ using geothermal heat to regenerate the capture solvents.
+- DACC (Direct Air Capture with Conventional Heat): Captures CO₂ using conventional (typically fossil-based) heat sources.
+- A (Amine-based Direct Air Capture): Uses amine-based chemical solvents to bind CO₂ directly from ambient air.
+- MED (Multi-Effect Distillation): A thermal desalination process that uses multiple stages of evaporation and condensation to improve efficiency.
+- MFD (Mechanical Vapor Compression Distillation): Desalination process that compresses vapor mechanically to recover and reuse heat.
+- IO (Ion Osmosis or Inverse Osmosis): Membrane-based water purification or desalination technologies that rely on osmotic pressure.
+- PSA (Pressure Swing Adsorption): Separates nitrogen from air using pressure-driven adsorption and desorption cycles.
+- AE (Alkaline Electrolysis): Produces hydrogen by electrolyzing water in an alkaline solution; a mature and widely used technology.
+- PEM (Proton Exchange Membrane Electrolysis): Hydrogen production via electrolysis using a solid polymer membrane for high efficiency.
+- HB (Haber-Bosch Process): Industrial synthesis of ammonia from hydrogen and nitrogen under high pressure and temperature.
+- M (Methanation): Produces synthetic methane by reacting hydrogen with CO₂, typically via the Sabatier process.
+
 
